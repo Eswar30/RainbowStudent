@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RainbowStudent", "RainbowStudent\RainbowStudent.csproj", "{DE53EB1B-6D69-49E1-9908-8C7973D8939E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{E38C2D6A-8546-440E-B04F-B4CF5B2747CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE53EB1B-6D69-49E1-9908-8C7973D8939E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE53EB1B-6D69-49E1-9908-8C7973D8939E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE53EB1B-6D69-49E1-9908-8C7973D8939E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE53EB1B-6D69-49E1-9908-8C7973D8939E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E38C2D6A-8546-440E-B04F-B4CF5B2747CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E38C2D6A-8546-440E-B04F-B4CF5B2747CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E38C2D6A-8546-440E-B04F-B4CF5B2747CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E38C2D6A-8546-440E-B04F-B4CF5B2747CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D0F9E51-16E3-4BD6-8D99-0B699034DB2A}
+	EndGlobalSection
+EndGlobal
